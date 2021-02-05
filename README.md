@@ -18,7 +18,7 @@ $ [Other Information](#Other-Information)
 ## All Tutorial (WINDOWS, C9/CA & TERMUX) [https://youtu.be/J7WbsfZ7z6I]
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/pakdhe14/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
